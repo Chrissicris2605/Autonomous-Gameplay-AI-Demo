@@ -38,6 +38,14 @@ Two policies are included:
 
 ---
 
+## 🖼️ Screenshot
+
+### Terminal simulation output
+
+![Terminal simulation output](screenshots/terminal_demo.png)
+
+---
+
 ## 🧪 What it demonstrates
 
 This project demonstrates:
@@ -65,6 +73,9 @@ This project demonstrates:
 │   └── visualization.py     # Terminal grid rendering
 ├── docs/
 │   └── decision-model.md
+├── screenshots/
+│   ├── .gitkeep
+│   └── terminal_demo.png
 ├── requirements.txt
 └── README.md
 ```
